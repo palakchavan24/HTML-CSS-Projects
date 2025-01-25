@@ -1,0 +1,246 @@
+.header{
+    background-color:midnightblue;
+    color: whitesmoke;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 5px;
+}
+b{
+    font-size: 20px;
+
+}
+#img1{
+    width: 600px;
+    height: 300px;
+    /* to centre the image */
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-top: 4px;
+
+}
+.ha{
+    color: whitesmoke;
+}
+
+/*boxes css*/
+.container1{
+    width: 850px;
+    margin: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-direction: row;
+
+}
+.html{
+    width: 350px;
+    height: 550px;
+    margin:5px;
+    border: 5px rgb(red, green, blue);
+    border-radius: 5%;
+    background-color: aliceblue;
+    text-align: center;
+}
+
+#img2{
+    width: 300px;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border-radius: 5px;
+
+    /*2nd file*/
+
+}
+
+.css{
+    width: 350px;
+    height: 550px;
+    margin:5px;
+    border: 5px rgb( rgb(29, 29, 33));
+    border-radius: 5%;
+    background-color:aliceblue;
+    text-align: center;
+}
+
+#img3{
+    width: 300px;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border-radius: 5px;
+
+    /*3rd*/
+
+}
+.javascript{
+    width: 350px;
+    height: 550px;
+    margin:5px;
+    border: 5px rgb( rgb(29, 29, 33));
+    border-radius: 5%;
+    background-color:aliceblue;
+    text-align: center;
+
+}
+#img4{
+    width: 300px;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border-radius: 5px;
+
+}
+.container2{
+    width: 950px;
+    margin: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-direction: row;
+}
+.bootstrap{
+    width: 350px;
+    height: 600px;
+    margin: 5px;
+    border: 5px rgb(red, green, rgb(58, 58, 61));
+    border-radius: 5%;
+    background-color: aliceblue;
+    text-align: center;
+
+
+}
+
+
+
+#img5{
+    width: 300px;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border-radius: 5px;
+
+}
+.jquery{
+    width: 350px;
+    height: 600px;
+    margin: 5px;
+    border: 5px rgb(rgb(24, 21, 21), green, rgb(28, 28, 31));
+    border-radius: 5%;
+    background-color: aliceblue;
+    text-align: center;
+
+}
+#img6{
+    width: 300px;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border-radius: 5px;
+
+}
+.reactjs{
+    width: 350px;
+    height: 600px;
+    margin: 5px;
+    border: 5px rgb(23, 19, 19);
+    border-radius: 5%;
+    background-color:aliceblue;
+    text-align: center;
+}
+#img7{
+    width: 300px;
+    height: 250px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border-radius: 5px;
+}
+.interviewquestion{
+    width: 600px;
+    height: 550px;
+    margin: 5px;
+    border: 5px rgb(21, 20, 20);
+    border-radius: 5%;
+    background-color:aliceblue;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+#img8{
+    width: 350px;
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border-radius: 5px;
+}
+
+.footer{
+    background-color:rgb(117, 179, 233);
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+.facebook{
+    width: 40px;
+    height: 40px;
+    margin: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    display: inline-block;
+    text-align: center;
+}
+.whatsapp{
+    width: 40px;
+    height: 40px;
+    margin: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    display: inline-block;
+    text-align: center;
+}
+.youtube{
+    width: 40px;
+    height: 40px;
+    margin: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    display: inline-block;
+    text-align: center;
+}
+.linkedin{
+    width: 40px;
+    height: 40px;
+    margin: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    display: inline-block;
+    text-align: center; 
+}
+.telegram{
+    width: 40px;
+    height: 40px;
+    margin: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    display: inline-block;
+    text-align: center;
+}
+
+.footer-nav{
+    background-color: gray;
+    color:aliceblue;
+    font-size: 14px;
+    text-align: center;
+}
